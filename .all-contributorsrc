@@ -1,9 +1,22 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
   "imageSize": 100,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "mskelton",
+      "name": "Mark Skelton",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25914066?v=4",
+      "profile": "https://github.com/mskelton",
+      "contributions": [
+        "doc",
+        "design"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "projectName": "iterm-one-dark-theme",
   "projectOwner": "one-dark",
