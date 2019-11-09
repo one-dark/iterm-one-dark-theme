@@ -6,7 +6,7 @@
 
 ![Screenshot](screenshots/main.png)
 
-## Installation 📥
+## Installation 🔧
 
 First, download the [One Dark.itermcolors](https://raw.githubusercontent.com/one-dark/iterm-one-dark-theme/master/One%20Dark.itermcolors) file. If your browser adds the `.txt` extension after downloading, rename the file so it uses the `.itermcolors` extension.
 
