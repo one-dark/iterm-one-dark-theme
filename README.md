@@ -1,6 +1,6 @@
 # iTerm2 One Dark Theme
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors)
 
 > [One Dark](https://github.com/atom/one-dark-syntax) theme for iTerm2.
 
@@ -21,4 +21,11 @@ When prompted, select the `One Dark.itermcolors` file you just downloaded. This 
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt="Mark Skelton"/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="#design-mskelton" title="Design">🎨</a> <a href="https://github.com/one-dark/iterm-one-dark-theme/commits?author=mskelton" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
