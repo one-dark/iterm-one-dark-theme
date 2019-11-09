@@ -20,6 +20,8 @@ When prompted, select the `One Dark.itermcolors` file you just downloaded. This 
 
 ## Contributors ✨
 
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
@@ -27,5 +29,7 @@ When prompted, select the `One Dark.itermcolors` file you just downloaded. This 
     <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt="Mark Skelton"/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="#design-mskelton" title="Design">🎨</a> <a href="https://github.com/one-dark/iterm-one-dark-theme/commits?author=mskelton" title="Documentation">📖</a></td>
   </tr>
 </table>
-
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
