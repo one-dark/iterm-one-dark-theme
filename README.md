@@ -1,5 +1,7 @@
 # iTerm2 One Dark Theme
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg)](#contributors)
+
 > [One Dark](https://github.com/atom/one-dark-syntax) theme for iTerm2.
 
 ![Screenshot](screenshots/main.png)
@@ -15,3 +17,8 @@ After downloading the file, open the iTerm settings and go to `Profiles > Colors
 When prompted, select the `One Dark.itermcolors` file you just downloaded. This will import the One Dark preset for use. Finally, click `Color Presets...` and select `One Dark` from the list to enable the One Dark color theme for iTerm!
 
 ![Screenshot](screenshots/preset.png)
+
+## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
