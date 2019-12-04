@@ -23,12 +23,16 @@ When prompted, select the `One Dark.itermcolors` file you just downloaded. This 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://github.com/mskelton"><img src="https://avatars3.githubusercontent.com/u/25914066?v=4" width="100px;" alt="Mark Skelton"/><br /><sub><b>Mark Skelton</b></sub></a><br /><a href="#design-mskelton" title="Design">🎨</a> <a href="https://github.com/one-dark/iterm-one-dark-theme/commits?author=mskelton" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://jef.rocks"><img src="https://avatars1.githubusercontent.com/u/12074633?v=4" width="100px;" alt="Jef LeCompte"/><br /><sub><b>Jef LeCompte</b></sub></a><br /><a href="#design-hijxf" title="Design">🎨</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
