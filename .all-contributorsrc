@@ -15,11 +15,21 @@
         "design",
         "doc"
       ]
+    },
+    {
+      "login": "hijxf",
+      "name": "Jef LeCompte",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12074633?v=4",
+      "profile": "https://jef.rocks",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "iterm-one-dark-theme",
   "projectOwner": "one-dark",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
