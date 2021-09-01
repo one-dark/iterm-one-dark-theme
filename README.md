@@ -8,7 +8,7 @@
 
 ## Installation 🔧
 
-First, download the [One Dark.itermcolors](https://raw.githubusercontent.com/one-dark/iterm-one-dark-theme/master/One%20Dark.itermcolors) file. If your browser adds the `.txt` extension after downloading, rename the file so it uses the `.itermcolors` extension.
+First, download the [One Dark.itermcolors](https://raw.githubusercontent.com/one-dark/iterm-one-dark-theme/main/One%20Dark.itermcolors) file. If your browser adds the `.txt` extension after downloading, rename the file so it uses the `.itermcolors` extension.
 
 After downloading the file, open the iTerm settings and go to `Profiles > Colors`. Then, select the `Import...` option from the `Color Presets...` dropdown.
 
